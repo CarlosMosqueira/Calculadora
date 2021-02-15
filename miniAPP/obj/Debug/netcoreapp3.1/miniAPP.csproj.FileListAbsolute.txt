@@ -1,0 +1,13 @@
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.exe
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.deps.json
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.runtimeconfig.json
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.runtimeconfig.dev.json
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.dll
+C:\Users\cajun\Desktop\DOTNET\miniAPP\bin\Debug\netcoreapp3.1\miniAPP.pdb
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.csprojAssemblyReference.cache
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.AssemblyInfoInputs.cache
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.AssemblyInfo.cs
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.csproj.CoreCompileInputs.cache
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.dll
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.pdb
+C:\Users\cajun\Desktop\DOTNET\miniAPP\obj\Debug\netcoreapp3.1\miniAPP.genruntimeconfig.cache
